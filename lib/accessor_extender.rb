@@ -1,5 +1,2 @@
 require "accessor_extender/version"
-
-module AccessorExtender
-  # Your code goes here...
-end
+require "accessor_extender/module"
